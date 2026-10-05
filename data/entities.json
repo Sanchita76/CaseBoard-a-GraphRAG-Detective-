@@ -1,0 +1,22 @@
+[
+  {"name": "Helen Voss",  "type": "PERSON", "aliases": ["Voss", "Curator Voss"]},
+  {"name": "Tomas Reed",  "type": "PERSON", "aliases": ["Reed"]},
+  {"name": "Ravi Menon",  "type": "PERSON", "aliases": ["Menon", "Inspector Menon"]},
+  {"name": "Nils Arden",  "type": "PERSON", "aliases": ["Arden"]},
+  {"name": "Priya Nair",  "type": "PERSON", "aliases": ["Nair"]},
+  {"name": "Felix Ortega","type": "PERSON", "aliases": ["Ortega"]},
+  {"name": "Silas Crane", "type": "PERSON", "aliases": ["Crane"]},
+  {"name": "Oona Park",   "type": "PERSON", "aliases": ["Park"]},
+  {"name": "Greta Holm",  "type": "PERSON", "aliases": ["Holm"]},
+  {"name": "Pavel Dunn",  "type": "PERSON", "aliases": ["Dunn"]},
+  {"name": "Ines Calder", "type": "PERSON", "aliases": ["Calder"]},
+  {"name": "Marlow Museum",     "type": "ORG", "aliases": ["the museum"]},
+  {"name": "Marlow Police",     "type": "ORG", "aliases": []},
+  {"name": "Harbor Catering",   "type": "ORG", "aliases": []},
+  {"name": "Crane Auctions",    "type": "ORG", "aliases": []},
+  {"name": "Sentinel Security", "type": "ORG", "aliases": []},
+  {"name": "Marlow Library",    "type": "ORG", "aliases": ["the library"]},
+  {"name": "Harbor Festival",   "type": "EVENT", "aliases": ["the festival"]},
+  {"name": "Dockside Warehouse","type": "PLACE", "aliases": []},
+  {"name": "Blue Heron Pearl",  "type": "ITEM", "aliases": []}
+]
